@@ -1,3 +1,9 @@
-10000000000000000000000000.times do
-     puts "PC's are like biblical Gods. Many rules No mercy."
-end
+phrase <- c("Freedom")
+i <- 1
+repeat{
+  i <- i + 1
+  print(phrase)
+  if(i > 1000){
+    break
+  }
+}
