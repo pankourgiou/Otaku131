@@ -1,2 +1,0 @@
-for _ in range(1000000):
-    print("He will win who knows when to fight and when not to fight, In the midst of chaos, there is also opportunity The greatest victory is that which requires no battle There is no instance of a nation benefiting from prolonged warfare The whole secret lies in confusing the enemy, so that he cannot fathom our real intent Attack is the secret of defense, defense is the planning of an attack.")
